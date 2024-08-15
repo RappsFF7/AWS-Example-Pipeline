@@ -1,6 +1,12 @@
-Jul-2024 Update: AWS has deprecated their CI/CD pipeline that this project is based on: Cloud9, CodeCommit, CodeBuild.
+**Jul-2024 Update: AWS has deprecated their CI/CD pipeline that this project is based on: Cloud9, CodeCommit, CodeBuild.**
 
-# Elastic Beanstalk Follow Along
+# Project Summary
+
+This is a simple static website built, versioned, compiled, and hosted using AWS cloud services and pipeline management. The goal was to familiarize myself with the tools available in AWS with a hands-on example.
+
+![Site Preview Screenshot](https://raw.githubusercontent.com/RappsFF7/AWS-Example-Pipeline/master/images/site-preview.png)
+
+## ExamPro Elastic Beanstalk Follow Along
 
 This project was based on [ExamPro Follow Along - Paid Lesson](https://app.exampro.co/student/material/dva-c01/1057).
 
